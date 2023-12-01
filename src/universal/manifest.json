@@ -40,7 +40,7 @@
 			"clang",
 			"python3-dev",
 			"vim",
-			"vim-doc",
+			"vim-doc",																						
 			"xtail",
 			"software-properties-common",
 			"libsecret-1-dev",
